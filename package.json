@@ -1,0 +1,17 @@
+{
+  "name": "benchmarkjs-experiments",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A couple of experiments with benchmark.js",
+  "main": "index.js",
+  "repository": "",
+  "author": "Christoph Walcher <christoph.walcher@gmail.com>",
+  "dependencies": {
+    "beautify-benchmark": "^0.2.4",
+    "benchmark": "*",
+    "faker": "^2.1.1",
+    "lodash": "^2.4.1",
+    "mongoose": "^3.8.20",
+    "underscore": "^1.7.0"
+  }
+}
